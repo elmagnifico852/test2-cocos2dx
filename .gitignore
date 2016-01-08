@@ -1,0 +1,15 @@
+*.class
+*.o
+*.o.d
+*.apk
+*.a
+*.so
+cocos2d
+proj.android/*
+proj.android/.classpath
+proj.android/.cproject
+proj.android/.project
+proj.android/assets/*
+proj.android/bin/*
+proj.android/gen/*
+proj.android/local.properties
